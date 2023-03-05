@@ -6,11 +6,11 @@ Mobile application developed as a part of coursework in MacOS
 - Application and its design rationale
 
 	- API: https://openweathermap.org/api (Accessing that account)
-	- Displayed current weather in "Manual Coordinates around Helsinki" in the UI
-	- Displayed icon of the weather
-	- Use tabs, one for current weather and one for forecast, the forecast has not been implemented yet due to some issue with openweathermap API
-	- Use GPS and display conditions based on the gps location instead of Tampere.
-	- Create settings tab, contains UI that has toggle for
+	- Displays current weather in "Manual Coordinates around Helsinki" in the UI
+	- Displays icon of the weather
+	- Uses tabs, one for current weather and one for forecast, the forecast has not been implemented yet due to some issue with openweathermap API
+	- Uses GPS and display conditions based on the gps location instead of Tampere.
+	- Created settings tab, contains UI that has toggle for
     		Current position (GPS)
     		Tampere
     		Helsinki
