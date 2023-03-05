@@ -19,3 +19,6 @@ Mobile application developed as a part of coursework in MacOS
 	- User can choose one of these and display either one of the cities weather OR the gps
 	- User can add cities to the list. 
 	- User can remove cities from the list, not the current location. 
+	
+- Demonstration of the application in MacOS
+https://youtu.be/u8nu9ELPRNY
